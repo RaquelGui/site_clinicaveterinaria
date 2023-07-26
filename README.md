@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 
-Feito com ♥ by Raquel Goulart (https://github.com/RaquelGui)# site_clinicaveterinaria
+Feito com ♥ by Raquel Goulart (https://github.com/RaquelGui)
